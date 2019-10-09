@@ -30,6 +30,6 @@ To get started using a persephony account, follow the instructions [here](https:
 1. Run the application using command:
 
    ```bash
-   $ node streamARecording.js
+   $ node deleteRecording.js
    ```
 
